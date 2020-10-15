@@ -32,7 +32,7 @@ following defined pieces of data:
 - Custom sortable entries (`boolean`) - when enabled, items can be sorted within
   Cockpit's UI and a hierarchy can be build (i.e. one item can become the parent of
   another)
-- Show in system menu (`boolean`) - when enabled, this colelction will be show
+- Show in system menu (`boolean`) - when enabled, this collection will be show
   in the system menu which can be opend by clicking on the
   [`app.name`](/guide/basics/configuration.md#app-name-string) of your Cockpit
   installation which is placed in the upper left corner of the navbar
@@ -62,4 +62,4 @@ the API.
 
 ## Singletons <Badge text="> 0.6.0" type="tip" vertical="middle"/>
 
-## Froms
+## Forms
